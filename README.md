@@ -1,2 +1,2 @@
-# crypto-price-prediction
-Machine Learning model for predicting crypto prices
+# crypto-price-analysis
+Price data analysis for crypto currencies with different plots
